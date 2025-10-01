@@ -158,6 +158,8 @@ when each type of chip was produced.
 |                           | ssd210   |            |              |                        |                 |                 |              |                                       |                                          |
 |                           | ssd212   |            |              |                        |                 |                 |              |                                       |                                          |
 |                           | ssc9211  | 2118S      |              |                        | yes             | yes             |              |                                       |                                          |
+| [mainz](#Mainz)           |          |            |              |                        |                 |                 |              |                                       |                                          |
+|                           | msd6a358 | 1931E      |              | yes                    | yes             |                 |              |                                       |                                          |
 | misc                      |          |            |              |                        |                 |                 |              |                                       |                                          |
 |                           | ssa330d  |            |              |                        |                 |                 |              | [yes](/misc/SSA330D.pdf)              |                                          |
 |                           | ssa530g  |            |              |                        |                 |                 |              | [yes](/misc/SSA530G.pdf)              |                                          |
@@ -371,6 +373,11 @@ SDK name: TIRAMISU
 
 # 64bit ARM based
 
+### [Mainz](mainz)
+
+- [msd6a358](mainz#msd6a358) - probably Cortex A53? Cortex A35?
+
+### Misc
 According to the code that is in the wild and SigmaStars page there are some Cortex-A53 based chips.
 
 - SSC8826D - 2 * Cortex A53, QFN
