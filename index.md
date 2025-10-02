@@ -158,7 +158,7 @@ when each type of chip was produced.
 |                           | ssd210   |            |              |                        |                 |                 |              |                                       |                                          |
 |                           | ssd212   |            |              |                        |                 |                 |              |                                       |                                          |
 |                           | ssc9211  | 2118S      |              |                        | yes             | yes             |              |                                       |                                          |
-| [mainz](#Mainz)           |          |            |              |                        |                 |                 |              |                                       |                                          |
+| [mainz](#mainz)           |          |            |              |                        |                 |                 |              |                                       |                                          |
 |                           | msd6a358 | 1931E      |              | yes                    | yes             |                 |              |                                       |                                          |
 | misc                      |          |            |              |                        |                 |                 |              |                                       |                                          |
 |                           | ssa330d  |            |              |                        |                 |                 |              | [yes](/misc/SSA330D.pdf)              |                                          |
@@ -375,7 +375,7 @@ SDK name: TIRAMISU
 
 ### [Mainz](mainz)
 
-- [msd6a358](mainz#msd6a358) - probably Cortex A53? Cortex A35?
+- [msd6a358](mainz#msd6a358) - 4x Cortex A35 1.5Ghz
 
 ### Misc
 According to the code that is in the wild and SigmaStars page there are some Cortex-A53 based chips.
