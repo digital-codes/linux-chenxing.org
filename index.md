@@ -239,6 +239,23 @@ ones.
   - MSD6A338ST - 512 MiB DDR3
   - MSD6A338SXG - 1 GiB DDR3
 
+### Nike
+
+- MSD6A818 
+
+### [madison](madison)
+
+- [MSD628VXM](madison#msd628vxm)
+- [MSD628VX](madison#msd628vx) 
+
+### Edison
+- [MSD6A901](edison#msd6a901)
+
+### Napoli
+
+- MSD6A918
+
+
 ### Cedric Family
 
 - [MST786](cedric#mst786) - Dual core Cortex A9 automotive (head unit) SoC
@@ -375,7 +392,27 @@ SDK name: TIRAMISU
 
 ### [Mainz](mainz)
 
-- [msd6a358](mainz#msd6a358) - 4x Cortex A35 1.5Ghz
+- [MSD6A358](mainz#msd6a358) - 4x Cortex A35 1.5Ghz
+  - MSD6A358AT - 512 MiB DDR3
+  - MSD6A358AX - 1 GiB DDR3
+
+
+### [Mooney](mooney)
+
+- [MSD6A648](mooney#msd6a648) - 4x Cortex A53
+
+### Monet
+
+- MSD6A638
+
+### Muji
+
+- MSD6A828
+
+
+### Maserati
+
+- MSD6A938  
 
 ### Misc
 According to the code that is in the wild and SigmaStars page there are some Cortex-A53 based chips.
